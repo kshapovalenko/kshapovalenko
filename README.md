@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Kate!
 
-<!--
-**kshapovalenko/kshapovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy solving complex yet meaningful problems to improve the way people live their lives.
 
-Here are some ideas to get you started:
+- 🔥 Working on AI, health wearables, and neurotech
+- 🎓 Data science and AI at Carnegie Mellon
+- 🇺🇦 Born and raised in Ukraine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)](https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/kshapovalenko)](https://github.com/kshapovalenko)
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshapovalenko&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshapovalenko&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
