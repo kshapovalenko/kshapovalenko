@@ -24,6 +24,10 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 | [2024] **Building and Evaluating AI PolicyChatbot** | LLaMA-7B model prompt-engineering and LoRA/QLoRA fine-tuning, Python, PyTorch | [GitHub](https://github.com/kshapovalenko/NL-X-and-LLM-AI-PolicyChat) |
 | [2024] **Stock Price Prediction and GameStop Short Squeeze Analysis** | Financial and text data pre-processing, sentiment analysis, time-series forecasting w/ LSTM models, sensitivity analysis, Python, TensorFlow | [GitHub](https://github.com/kshapovalenko/NL-X-and-LLM-Stock-Prediction) |
 | [2023] **Human-Computer Interaction for Health Tech** | User interviews, affinity diagram, stakeholder and customer journey maps, lo-fi and hi-fi prototyping w/ Figma, usability testing | Not available |
+| [2023] **Attention-based Speech Recognition** | Audio data pre-processing, coding CNN- and transformer-based encoder-decoder models from scratch, model training and fine-tuning, Python, PyTorch | Not available |
+| [2023] **CNN-LSTM Phoneme-level Speech Classifications** | Audio data pre-processing, CNN-based feature extraction, coding LSTM/pBLSTM from scratch, CTC loss training, Beam search decoding, Python, PyTorch | Not available |
+| [2023] **Face Classification and Verification w/ CNNs** | Images data pre-processing, coding ResNet and ConvNeXt from scratch, contrastive loss training, Python, PyTorch | Not available |
+| [2023] **Phoneme-level Speech Classification w/ MLPs** | Audio data pre-processing (melspectograms), MLP classifier coding, training, and hyper-params tuning, Python, PyTorch | Not available |
 | [2023] **Predicting Health Outcomes w/ Personal Trackers** | Experiment design, data querying from personal Apple Watch and behavioral apps, EDA, ML modeling w/ Python, scikit-learn | Not available |
 | [2022] **Health Trends of the Americans' Next Generation** | Data querying w/ SQL, data cleaning, analysis, and visualization w/ Python, matplotlib, and seaborn | Not available |
 
