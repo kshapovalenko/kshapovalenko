@@ -14,6 +14,7 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 
 | Name         | Tech                  | Link         |
 |--------------|-----------------------|--------------|
+| [In progress] **Brain and Stimulus Alignment** | EEG brain signal and audio data pre-processing, Wav2Vec and CLIP model embedding, transformer-based model training and fine-tuning | Not available | 
 | [2024] **CortexType - Typing with Your Mind** | Real-time EEG brain signal processing from g.tec Unicorn EEG device, ML and LLM-based models training and fine-tuning, synchronization for real-time inference, Python, PyTorch, PhysioLabXR BCIs, Unity XR App, scikit-learn | [GitHub](https://github.com/kshapovalenko/Neureality-Hack-CortexType) |
 | [2023-2024] **Brain-to-Speech Decoding** | EEG brain signal pre-processing, transformer-based models training, Python, PyTorch | [GitHub](https://github.com/kshapovalenko/DL-EEG-Speech-Decoder) |
 | [2024] **AI for Human Trafficking Prevention** | Images pre-processing, multimodal model training (LLaVA, Qwen-VL-Chat), prompt-engineering, and LoRA/QLoRA fine-tuning, Python, PyTorch, scikit-learn | Not available |
@@ -22,6 +23,8 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 | [2024] **Brain Encoding Models using Taskonomy** | FMRI brain signal and images data pre-processing, task representations w/ visualpriors, RSA and correlation matrices, Python | [GitHub](https://github.com/kshapovalenko/Neuro-AI-fMRI-Encoder-Taskonomy) | 
 | [2024] **Building and Evaluating AI PolicyChatbot** | LLaMA-7B model prompt-engineering and LoRA/QLoRA fine-tuning, Python, PyTorch | [GitHub](https://github.com/kshapovalenko/NL-X-and-LLM-AI-PolicyChat) |
 | [2024] **Stock Price Prediction and GameStop Short Squeeze Analysis** | Financial and text data pre-processing, sentiment analysis, time-series forecasting w/ LSTM models, sensitivity analysis, Python, TensorFlow | [GitHub](https://github.com/kshapovalenko/NL-X-and-LLM-Stock-Prediction) |
+| [2023] **Human-Computer Interaction for Health Tech** | User interviews, affinity diagram, stakeholder and customer journey maps, lo-fi and hi-fi prototyping w/ Figma, usability testing | Not available |
+| [2022] **Health Trends of the Americans' Next Generation** | Data querying w/ SQL, data cleaning, analysis, and visualization w/ Python, matplotlib, and seaborn | Not available |
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshapovalenko&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
