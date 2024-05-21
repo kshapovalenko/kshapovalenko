@@ -32,7 +32,7 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 | [2022] **Health Trends of the Americans' Next Generation** | Data querying w/ SQL, data cleaning, analysis, and visualization w/ Python, matplotlib, and seaborn | Not available |
 
 ### Online Certificates
-- “AI Product Management and Strategy” by Harvard - [Info](https://custom.cvent.com/3ffadfc4e58b40c7b173f9e4cd741c01/files/b2c67167b4ed4a3a848d21f1b3953adb.pdf) 
+- “AI Product Management and Strategy” by Digital, Data, and Design Institute at Harvard - [Info](https://custom.cvent.com/3ffadfc4e58b40c7b173f9e4cd741c01/files/b2c67167b4ed4a3a848d21f1b3953adb.pdf) 
 - “Social and Behavioral Research” by CITI - [Certificate](https://www.citiprogram.org/verify/?wfdcedf2d-49ad-443a-8b42-4e4e12f30581-55784411)
 - “Deep Learning” by DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/certificate/UKZ9F24SXSJJ)
 - “Machine Learning Specialization” by Stanford and DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8NY3S267DYZQ)
