@@ -3,7 +3,7 @@
 I enjoy solving complex yet meaningful problems to improve the way people live their lives.
 
 - 🔥 Working on AI, health wearables, and neurotech
-- 🎓 Data science and AI at Carnegie Mellon
+- 🎓 AI @ Carnegie Mellon
 - 🇺🇦 Born and raised in Ukraine
 
 ### Connect with Me
