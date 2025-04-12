@@ -33,12 +33,6 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 | [2023] **Predicting Health Outcomes w/ Personal Trackers** | Experiment design, data querying from personal Apple Watch and behavioral apps, EDA, ML modeling w/ Python, scikit-learn | Not available |
 | [2022] **Health Trends of the Americans' Next Generation** | Data querying w/ SQL, data cleaning, analysis, and visualization w/ Python, matplotlib, and seaborn | Not available |
 
-### Online Certificates
-- “Social and Behavioral Research” by CITI - [Certificate](https://www.citiprogram.org/verify/?wfdcedf2d-49ad-443a-8b42-4e4e12f30581-55784411)
-- “Deep Learning” by DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/certificate/UKZ9F24SXSJJ)
-- “Machine Learning Specialization” by Stanford and DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8NY3S267DYZQ)
-- “AI Product Management and Strategy” by he Digital Data Design Institute at Harvard (D^3) - [Info](https://custom.cvent.com/3ffadfc4e58b40c7b173f9e4cd741c01/files/b2c67167b4ed4a3a848d21f1b3953adb.pdf)
-
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshapovalenko&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshapovalenko&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
