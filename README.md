@@ -14,7 +14,7 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 
 | Name         | Tech                  | Link         |
 |--------------|-----------------------|--------------|
-| [2024] **Improving SSVEP BCI Spellers with Data Augmentation and Language Models** - *Accepted to* [*DSP 2025 (IEEE)*](https://2025.ic-dsp.org/) | EEG brain signal processing, data augmentations, EEGNet, language modeling, RNN | [ArXiv](https://arxiv.org/abs/2412.20052) · [GitHub](https://github.com/kkipngenokoech/Hybrid-EEGNET-CharRNN-predictor) | 
+| [2024] **Improving SSVEP BCI Spellers with Data Augmentation and Language Models** - *Accepted to* [*IEEE DSP 2025*](https://2025.ic-dsp.org/) | EEG brain signal processing, data augmentations, EEGNet, language modeling, RNN | [ArXiv](https://arxiv.org/abs/2412.20052) · [GitHub](https://github.com/kkipngenokoech/Hybrid-EEGNET-CharRNN-predictor) | 
 | [2024] **Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation** | EEG and EMG brain signal processing, CNN, Transformers, VAE | [ArXiv](https://arxiv.org/abs/2501.04359) · [GitHub](https://github.com/YHTerrance/silent_speech) | 
 | [2024] **Brain and Stimulus Alignment** | EEG brain signal and audio data pre-processing, Wav2Vec and CLIP model embedding, transformer-based model training and fine-tuning | Not available | 
 | [2024] **CortexType - Typing with Your Mind** | Real-time EEG brain signal processing from g.tec Unicorn EEG device, ML and LLM-based model training and fine-tuning, real-time inference, Python, PyTorch, PhysioLabXR BCIs, Unity XR App, scikit-learn | [GitHub](https://github.com/kshapovalenko/Neureality-Hack-CortexType) |
