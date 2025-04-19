@@ -10,7 +10,7 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)](https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/kshapovalenko)](https://github.com/kshapovalenko)
 
-### My Projects 
+### Projects 
 
 | Name         | Tech                  | Link         |
 |--------------|-----------------------|--------------|
