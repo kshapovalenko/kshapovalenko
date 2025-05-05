@@ -14,7 +14,7 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 
 | Name         | Tech                  | Link         |
 |--------------|-----------------------|--------------|
-| [2025] **Brain-Controlled ChatGPT** - *Part of BR41N.IO Spring School 2025*) | EEG neural decoder, brain trigger messaging (MQTT), speech recognition (voice input), text-to-speech (pyttsx3), OpenAI API, GUI (Tkinter), async control (threading, queue) | [GitHub](https://github.com/Eddyzzzzz/G.TEC-Hackathon) | 
+| [2025] **Brain-Controlled ChatGPT** - *Part of* [*BR41N.IO Spring School 2025*](https://www.br41n.io/Spring-School-2025) | EEG neural decoder, brain trigger messaging (MQTT), speech recognition (voice input), text-to-speech (pyttsx3), OpenAI API, GUI (Tkinter), async control (threading, queue) | [GitHub](https://github.com/Eddyzzzzz/G.TEC-Hackathon) | 
 | [2024] **Improving SSVEP BCI Spellers with Data Augmentation and Language Models** - *Accepted to* [*IEEE DSP 2025*](https://2025.ic-dsp.org/) | EEG brain signal processing, data augmentations, EEGNet, language modeling, RNN | [ArXiv](https://arxiv.org/abs/2412.20052) · [GitHub](https://github.com/kkipngenokoech/Hybrid-EEGNET-CharRNN-predictor) | 
 | [2024] **Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation** | EEG and EMG signal processing, CNN, Transformers, VAE | [ArXiv](https://arxiv.org/abs/2501.04359) · [GitHub](https://github.com/YHTerrance/silent_speech) | 
 | [2024] **Brain and Stimulus Alignment** | EEG brain signal and audio data pre-processing, Wav2Vec and CLIP model embedding, transformer-based model training and fine-tuning | Not available | 
