@@ -6,10 +6,10 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 - 🎓 AI/ML @ Carnegie Mellon
 - 🇺🇦 Ukrainian
 
-### Connect with Me
+### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)](https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)
 
-### Projects 
+### Projects/publications 
 
 | Name         | Tech                  | Link         |
 |--------------|-----------------------|--------------|
@@ -36,6 +36,6 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 | [2023] **Predicting Health Outcomes w/ Personal Trackers** | Experiment design, data querying from personal Apple Watch and behavioral apps, EDA, ML modeling w/ Python, scikit-learn | Not available |
 | [2022] **Health Trends of the Americans' Next Generation** | Data querying w/ SQL, data cleaning, analysis, and visualization w/ Python, matplotlib, and seaborn | Not available |
 
-### GitHub Stats
+### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshapovalenko&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshapovalenko&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
