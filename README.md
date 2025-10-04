@@ -3,8 +3,8 @@
 I enjoy solving complex yet meaningful problems to improve the way people live their lives.
 
 - 🔥 Working on AI, health wearables, and neurotech
-- 🎓 AI @ Carnegie Mellon
-- 🇺🇦 Born and raised in Ukraine
+- 🎓 AI/ML @ Carnegie Mellon
+- 🇺🇦 Ukrainian
 
 ### Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)](https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)
