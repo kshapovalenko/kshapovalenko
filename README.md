@@ -9,9 +9,9 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)](https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)
 
-### Projects/publications 
+### Research
 
-| Name         | Tech                  | Link         |
+| Title         | Tech                  | Link         |
 |--------------|-----------------------|--------------|
 | [2025] **MultiDiffNet: A Multi-Objective Diffusion Framework for Generalizable Brain Decoding** - *Accepted to* [*NeurIPS Workshop 2025*](https://neurips.cc/virtual/2025/loc/san-diego/122117) | Diffusion models, EEG decoding, cross-subject generalization | [GitHub](https://github.com/eddieguo-1128/DualDiff) |
 | [2025] **Typing Reinvented: Towards Hands-Free Input via sEMG** | Surface EMG (sEMG), signal preprocessing, gesture-to-key mapping, neural decoding | [GitHub](https://github.com/KunwooLeeKay/emg2qwerty) |
