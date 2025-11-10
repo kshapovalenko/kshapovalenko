@@ -9,7 +9,7 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)](https://www.linkedin.com/in/kateryna-shapovalenko-72541b125/)
 
-### Research/projects
+### My research/projects
 
 | Name         | Tech                  | Links         |
 |--------------|-----------------------|--------------|
