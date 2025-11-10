@@ -13,7 +13,7 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 
 | Name         | Tech                  | Link         |
 |--------------|-----------------------|--------------|
-| [2025] **MultiDiffNet: A Multi-Objective Diffusion Framework for Generalizable Brain Decoding** | Diffusion models, EEG decoding, cross-subject generalization | [GitHub](https://github.com/eddieguo-1128/DualDiff) |
+| [2025] **MultiDiffNet: A Multi-Objective Diffusion Framework for Generalizable Brain Decoding** - *Accepted to* [*NeurIPS Workshop 2025*](https://neurips.cc/virtual/2025/loc/san-diego/122117) | Diffusion models, EEG decoding, cross-subject generalization | [GitHub](https://github.com/eddieguo-1128/DualDiff) |
 | [2025] **Typing Reinvented: Towards Hands-Free Input via sEMG** | Surface EMG (sEMG), signal preprocessing, gesture-to-key mapping, neural decoding | [GitHub](https://github.com/KunwooLeeKay/emg2qwerty) |
 | [2025] **SVeritas: Benchmark for Robust Speaker Verification under Diverse Conditions** - *Accepted to* [*EMNLP 2025*](https://aclanthology.org/2025.findings-emnlp.516/) | Speaker verification, robustness benchmarking, codec/channel mismatch, adversarial attacks, demographic analysis | [ArXiv](https://arxiv.org/abs/2509.17091) · [GitHub](https://github.com/massabaali7/SVeritas) | 
 | [2025] **Brain-Controlled ChatGPT** - *Part of* [*BR41N.IO Spring School 2025*](https://www.br41n.io/Spring-School-2025) | EEG neural decoder, brain trigger messaging (MQTT), speech recognition (voice input), text-to-speech (pyttsx3), OpenAI API, GUI (Tkinter), async control (threading, queue) | [GitHub](https://github.com/Eddyzzzzz/G.TEC-Hackathon) | 
