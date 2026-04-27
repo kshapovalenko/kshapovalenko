@@ -13,7 +13,6 @@ I enjoy solving complex yet meaningful problems to improve the way people live t
 
 | Name         | Tech                  | Links         |
 |--------------|-----------------------|--------------|
-| [Present] **GenAI Data & Model Ops**  | Human data strategies for model pre/post-training and evals, Python, SQL | @ Meta Superintelligence Labs (TBD Lab) |
 | [2025] **Post-Training and Large-Scale Evals of Brain Foundation Models**  | Python, PyTorch, AWS, MLFlow, Stentrode™ endovascular BCI data, post-training and eval pipelines, neural decoding (cursor and command control) | @ Synchron |
 | [2025] **MultiDiffNet: A Multi-Objective Diffusion Framework for Generalizable Brain Decoding** - *Accepted to* [*NeurIPS Workshop 2025*](https://neurips.cc/virtual/2025/loc/san-diego/122117) | Diffusion models, EEG decoding, cross-subject generalization | [ArXiv](https://arxiv.org/abs/2511.18294) · [GitHub](https://github.com/eddieguo-1128/DualDiff) |
 | [2025] **Typing Reinvented: Towards Hands-Free Input via sEMG** | sEMG-based decoding, gesture-to-key mapping | [ArXiv](https://arxiv.org/abs/2511.18213) · [GitHub](https://github.com/KunwooLeeKay/emg2qwerty) |
